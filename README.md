@@ -8,5 +8,4 @@ I'm Paris (she/her/hers), a second year at the University of California, Irvine 
 - HTML/CSS + some JavaScript
 
 ### Connect with me here!
-[LinkedIn][linkedin]
-[linkedin]: https://www.linkedin.com/in/paris-haraguchi/
+- [LinkedIn](https://www.linkedin.com/in/paris-haraguchi/)
