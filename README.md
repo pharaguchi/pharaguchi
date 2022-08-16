@@ -5,7 +5,7 @@ I'm Paris (she/her/hers), a second year at the University of California, Irvine 
 - Python
 - Java 
 - C++
-- HTML/CSS + limited knowledge in JavaScript
+- HTML/CSS + some JavaScript
 
 ### Connect with me here!
 [LinkedIn][linkedin]
