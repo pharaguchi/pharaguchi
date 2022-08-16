@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
+I'm Paris (she/her/hers), a second year at the University of California, Irvine studying Computer Science. I love learning about all the different fields involved in computing. Recently, I have been exploring work with data (pandas, numpy). In my free time, I enjoy playing volleyball!
 
-<!--
-**pharaguchi/pharaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages I have worked in
+- Python
+- Java 
+- C++
+- HTML/CSS + limited knowledge in JavaScript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me here!
+[LinkedIn][linkedin]
+[linkedin]: https://www.linkedin.com/in/paris-haraguchi/
