@@ -4,8 +4,11 @@ I'm Paris (she/her/hers), a second year at the University of California, Irvine 
 ### Languages I have worked in
 - Python
 - Java 
-- C++
-- HTML/CSS + some JavaScript
+- C/C++
+- HTML
+- CSS
+- JavaScript
+- Dart (Flutter)
 
 ### Connect with me here!
 - [LinkedIn](https://www.linkedin.com/in/paris-haraguchi/)
