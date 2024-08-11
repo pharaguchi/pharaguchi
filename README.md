@@ -6,13 +6,14 @@ I'm Paris (she/her/hers), a fourth year at the University of California, Irvine 
 - Developing a supervised learning solution for UCLA Neurology to validate molecules that will aid in stroke recovery
 
 ### Languages I have worked in
-- Python
-- Java 
 - C/C++
-- HTML
 - CSS
-- JavaScript
 - Dart (Flutter)
+- Go
+- HTML
+- Java
+- JavaScript
+- Python
 
 ### Connect with me here!
 - [LinkedIn](https://www.linkedin.com/in/paris-haraguchi/)
