@@ -4,6 +4,7 @@ I'm Paris (she/her/hers), a fourth year at the University of California, Irvine 
 ### Some cool stuff I'm up to
 - Working at F5 as a Data Analytics Apprentice
 - Developing a supervised learning solution for UCLA Neurology to validate molecules that will aid in stroke recovery
+- Collaborating with a team of 4 for a WiDS Kaggle competition!
 
 ### Languages I have worked in
 - C/C++
